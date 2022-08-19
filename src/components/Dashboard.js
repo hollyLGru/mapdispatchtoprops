@@ -46,6 +46,7 @@ const Dashboard = (props) => {
                             <DeleteIcon
                                 onClick = {() => props.removeCar(idx)}
                                 className="icon text-red" />
+                            {/* fsdfsfsdfsf */}
                         </TableCell>
                     </TableRow>
                 ))}
